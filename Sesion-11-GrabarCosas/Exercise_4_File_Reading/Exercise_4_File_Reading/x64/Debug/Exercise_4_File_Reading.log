@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+  Exercise_4_File_Reading.vcxproj -> C:\Users\diego\OneDrive\Desktop\Recu-Infor-2\Sesion-11-GrabarCosas\Exercise_4_File_Reading\x64\Debug\Exercise_4_File_Reading.exe

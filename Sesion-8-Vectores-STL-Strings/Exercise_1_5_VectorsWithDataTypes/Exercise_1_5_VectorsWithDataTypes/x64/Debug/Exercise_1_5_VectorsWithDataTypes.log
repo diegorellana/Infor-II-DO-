@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\diego\OneDrive\Desktop\Recu-Infor-2\Sesion-8-Vectores-STL-Strings\Exercise_1_5_VectorsWithDataTypes\Exercise_1_5_VectorsWithDataTypes\main.cpp(6,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\diego\OneDrive\Desktop\Recu-Infor-2\Sesion-8-Vectores-STL-Strings\Exercise_1_5_VectorsWithDataTypes\Exercise_1_5_VectorsWithDataTypes\main.cpp(17,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\diego\OneDrive\Desktop\Recu-Infor-2\Sesion-8-Vectores-STL-Strings\Exercise_1_5_VectorsWithDataTypes\Exercise_1_5_VectorsWithDataTypes\main.cpp(28,15): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Exercise_1_5_VectorsWithDataTypes.vcxproj -> C:\Users\diego\OneDrive\Desktop\Recu-Infor-2\Sesion-8-Vectores-STL-Strings\Exercise_1_5_VectorsWithDataTypes\x64\Debug\Exercise_1_5_VectorsWithDataTypes.exe

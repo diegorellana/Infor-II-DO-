@@ -1,0 +1,5 @@
+Listado de cuentas: 
+   1   Diego   1001
+   2   Javi   2001
+   3   Carlos   3001
+Listado de prestamos: 

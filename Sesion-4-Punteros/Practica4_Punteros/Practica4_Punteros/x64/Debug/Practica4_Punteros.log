@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\diego\OneDrive\Desktop\Recu-Infor-2\Sesion-4-Punteros\Practica4_Punteros\Practica4_Punteros\main.cpp(84,7): warning C4101: 'ch': unreferenced local variable
+C:\Users\diego\OneDrive\Desktop\Recu-Infor-2\Sesion-4-Punteros\Practica4_Punteros\Practica4_Punteros\main.cpp(127,7): warning C4101: 'ch': unreferenced local variable
+C:\Users\diego\OneDrive\Desktop\Recu-Infor-2\Sesion-4-Punteros\Practica4_Punteros\Practica4_Punteros\main.cpp(192,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Practica4_Punteros.vcxproj -> C:\Users\diego\OneDrive\Desktop\Recu-Infor-2\Sesion-4-Punteros\Practica4_Punteros\x64\Debug\Practica4_Punteros.exe

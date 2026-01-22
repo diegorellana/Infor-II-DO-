@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\diego\OneDrive\Desktop\Recu-Infor-2\Sesion-3-Arrays\Practica_3_Arrays\Practica_3_Arrays\main.cpp(98,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\diego\OneDrive\Desktop\Recu-Infor-2\Sesion-3-Arrays\Practica_3_Arrays\Practica_3_Arrays\main.cpp(99,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\diego\OneDrive\Desktop\Recu-Infor-2\Sesion-3-Arrays\Practica_3_Arrays\Practica_3_Arrays\main.cpp(100,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\diego\OneDrive\Desktop\Recu-Infor-2\Sesion-3-Arrays\Practica_3_Arrays\Practica_3_Arrays\main.cpp(101,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\diego\OneDrive\Desktop\Recu-Infor-2\Sesion-3-Arrays\Practica_3_Arrays\Practica_3_Arrays\main.cpp(111,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\diego\OneDrive\Desktop\Recu-Infor-2\Sesion-3-Arrays\Practica_3_Arrays\Practica_3_Arrays\main.cpp(112,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\diego\OneDrive\Desktop\Recu-Infor-2\Sesion-3-Arrays\Practica_3_Arrays\Practica_3_Arrays\main.cpp(113,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\diego\OneDrive\Desktop\Recu-Infor-2\Sesion-3-Arrays\Practica_3_Arrays\Practica_3_Arrays\main.cpp(114,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Practica_3_Arrays.vcxproj -> C:\Users\diego\OneDrive\Desktop\Recu-Infor-2\Sesion-3-Arrays\Practica_3_Arrays\x64\Debug\Practica_3_Arrays.exe

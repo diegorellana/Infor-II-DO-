@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\diego\OneDrive\Desktop\Recu-Infor-2\FinalesAnteriores\Diciembre25\Ej1_HexToDec\Ej1_HexToDec\main.cpp(76,17): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\diego\OneDrive\Desktop\Recu-Infor-2\FinalesAnteriores\Diciembre25\Ej1_HexToDec\Ej1_HexToDec\main.cpp(87,22): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\diego\OneDrive\Desktop\Recu-Infor-2\FinalesAnteriores\Diciembre25\Ej1_HexToDec\Ej1_HexToDec\main.cpp(123,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Ej1_HexToDec.vcxproj -> C:\Users\diego\OneDrive\Desktop\Recu-Infor-2\FinalesAnteriores\Diciembre25\Ej1_HexToDec\x64\Debug\Ej1_HexToDec.exe

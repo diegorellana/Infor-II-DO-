@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diego\\OneDrive\\Desktop\\Recu-Infor-2\\Sesion-11-GrabarCosas\\Exercise_4_File_Reading\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6FA2C1-A101-4D7C-B58B-1EE8F417FF54}|Exercise_4_File_Reading\\Exercise_4_File_Reading.vcxproj|C:\\Users\\diego\\OneDrive\\Desktop\\Recu-Infor-2\\Sesion-11-GrabarCosas\\Exercise_4_File_Reading\\Exercise_4_File_Reading\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EE6FA2C1-A101-4D7C-B58B-1EE8F417FF54}|Exercise_4_File_Reading\\Exercise_4_File_Reading.vcxproj|solutionrelative:Exercise_4_File_Reading\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 210,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\diego\\OneDrive\\Desktop\\Recu-Infor-2\\Sesion-11-GrabarCosas\\Exercise_4_File_Reading\\Exercise_4_File_Reading\\main.cpp",
+              "RelativeDocumentMoniker": "Exercise_4_File_Reading\\main.cpp",
+              "ToolTip": "C:\\Users\\diego\\OneDrive\\Desktop\\Recu-Infor-2\\Sesion-11-GrabarCosas\\Exercise_4_File_Reading\\Exercise_4_File_Reading\\main.cpp*",
+              "RelativeToolTip": "Exercise_4_File_Reading\\main.cpp*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-31T16:24:07.955Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

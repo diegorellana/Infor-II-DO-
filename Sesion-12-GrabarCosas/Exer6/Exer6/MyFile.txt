@@ -1,0 +1,10 @@
+Welding
+8.3
+Fitting
+4.3
+Screwing
+10
+Painting
+9.2
+Polishing
+5.7

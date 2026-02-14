@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diego\\OneDrive\\Desktop\\Recu-Infor-2\\Sesion-3-Arrays\\Practica_3_Arrays\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46FD9D89-D9DC-40B7-9691-956E5E1A6F1A}|Practica_3_Arrays\\Practica_3_Arrays.vcxproj|C:\\Users\\diego\\OneDrive\\Desktop\\Recu-Infor-2\\Sesion-3-Arrays\\Practica_3_Arrays\\Practica_3_Arrays\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{46FD9D89-D9DC-40B7-9691-956E5E1A6F1A}|Practica_3_Arrays\\Practica_3_Arrays.vcxproj|solutionrelative:Practica_3_Arrays\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 192,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\diego\\OneDrive\\Desktop\\Recu-Infor-2\\Sesion-3-Arrays\\Practica_3_Arrays\\Practica_3_Arrays\\main.cpp",
+              "RelativeDocumentMoniker": "Practica_3_Arrays\\main.cpp",
+              "ToolTip": "C:\\Users\\diego\\OneDrive\\Desktop\\Recu-Infor-2\\Sesion-3-Arrays\\Practica_3_Arrays\\Practica_3_Arrays\\main.cpp*",
+              "RelativeToolTip": "Practica_3_Arrays\\main.cpp*",
+              "ViewState": "AgIAAB4BAAAAAAAAAAAAADABAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-19T16:32:27.426Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

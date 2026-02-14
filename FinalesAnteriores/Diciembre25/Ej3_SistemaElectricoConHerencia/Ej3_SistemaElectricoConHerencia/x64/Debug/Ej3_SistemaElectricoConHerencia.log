@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\diego\OneDrive\Desktop\Recu-Infor-2\FinalesAnteriores\Diciembre25\Ej3_SistemaElectricoConHerencia\Ej3_SistemaElectricoConHerencia\Central.h(193,46): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\diego\OneDrive\Desktop\Recu-Infor-2\FinalesAnteriores\Diciembre25\Ej3_SistemaElectricoConHerencia\Ej3_SistemaElectricoConHerencia\main.cpp(68,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\diego\OneDrive\Desktop\Recu-Infor-2\FinalesAnteriores\Diciembre25\Ej3_SistemaElectricoConHerencia\Ej3_SistemaElectricoConHerencia\main.cpp(76,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\diego\OneDrive\Desktop\Recu-Infor-2\FinalesAnteriores\Diciembre25\Ej3_SistemaElectricoConHerencia\Ej3_SistemaElectricoConHerencia\main.cpp(232,14): warning C4101: 'opcion': unreferenced local variable
+  Ej3_SistemaElectricoConHerencia.vcxproj -> C:\Users\diego\OneDrive\Desktop\Recu-Infor-2\FinalesAnteriores\Diciembre25\Ej3_SistemaElectricoConHerencia\x64\Debug\Ej3_SistemaElectricoConHerencia.exe

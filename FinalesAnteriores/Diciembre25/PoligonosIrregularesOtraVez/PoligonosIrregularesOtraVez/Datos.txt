@@ -1,0 +1,2 @@
+Perimetro: 4
+Area: 1

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diego\\OneDrive\\Desktop\\UNAV\\3ro\\Infor-II\\Sesion_6_Funciones\\Apuntes\\Console\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{852C5ACD-38A5-4001-A5F6-E74A61F18ABE}|Console\\Console.vcxproj|C:\\Users\\diego\\OneDrive\\Desktop\\UNAV\\3ro\\Infor-II\\Sesion_6_Funciones\\Apuntes\\Console\\Console\\ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{852C5ACD-38A5-4001-A5F6-E74A61F18ABE}|Console\\Console.vcxproj|solutionrelative:Console\\ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsoleApplication1.cpp",
+              "DocumentMoniker": "C:\\Users\\diego\\OneDrive\\Desktop\\UNAV\\3ro\\Infor-II\\Sesion_6_Funciones\\Apuntes\\Console\\Console\\ConsoleApplication1.cpp",
+              "RelativeDocumentMoniker": "Console\\ConsoleApplication1.cpp",
+              "ToolTip": "C:\\Users\\diego\\OneDrive\\Desktop\\UNAV\\3ro\\Infor-II\\Sesion_6_Funciones\\Apuntes\\Console\\Console\\ConsoleApplication1.cpp",
+              "RelativeToolTip": "Console\\ConsoleApplication1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-07T13:09:05.296Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

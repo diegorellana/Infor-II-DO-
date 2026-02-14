@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\diego\OneDrive\Desktop\Recu-Infor-2\Sesion-8-Vectores-STL-Strings\Vectors\Vectors\main.cpp(49,15): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\diego\OneDrive\Desktop\Recu-Infor-2\Sesion-8-Vectores-STL-Strings\Vectors\Vectors\main.cpp(70,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Vectors.vcxproj -> C:\Users\diego\OneDrive\Desktop\Recu-Infor-2\Sesion-8-Vectores-STL-Strings\Vectors\x64\Debug\Vectors.exe

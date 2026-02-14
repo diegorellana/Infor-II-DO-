@@ -1,3 +1,0 @@
-﻿  main.cpp
-C:\Users\diego\OneDrive\Desktop\Recu-Infor-2\Sesion-8-Vectores-STL-Strings\Strings\Strings\main.cpp(12,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-  Strings.vcxproj -> C:\Users\diego\OneDrive\Desktop\Recu-Infor-2\Sesion-8-Vectores-STL-Strings\Strings\x64\Debug\Strings.exe

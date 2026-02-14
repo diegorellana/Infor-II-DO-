@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diego\\OneDrive\\Desktop\\UNAV\\3ro\\Infor-II\\Examenes Anteriores\\Practica Evaluada 2\\1.2.OrdenarPorInsercion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91EDAD91-E299-4FFA-9FA0-FE6FF5ECF218}|1.2.OrdenarPorInsercion\\1.2.OrdenarPorInsercion.vcxproj|C:\\Users\\diego\\OneDrive\\Desktop\\UNAV\\3ro\\Infor-II\\Examenes Anteriores\\Practica Evaluada 2\\1.2.OrdenarPorInsercion\\1.2.OrdenarPorInsercion\\orden_insercion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{91EDAD91-E299-4FFA-9FA0-FE6FF5ECF218}|1.2.OrdenarPorInsercion\\1.2.OrdenarPorInsercion.vcxproj|solutionrelative:1.2.OrdenarPorInsercion\\orden_insercion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "orden_insercion.cpp",
+              "DocumentMoniker": "C:\\Users\\diego\\OneDrive\\Desktop\\UNAV\\3ro\\Infor-II\\Examenes Anteriores\\Practica Evaluada 2\\1.2.OrdenarPorInsercion\\1.2.OrdenarPorInsercion\\orden_insercion.cpp",
+              "RelativeDocumentMoniker": "1.2.OrdenarPorInsercion\\orden_insercion.cpp",
+              "ToolTip": "C:\\Users\\diego\\OneDrive\\Desktop\\UNAV\\3ro\\Infor-II\\Examenes Anteriores\\Practica Evaluada 2\\1.2.OrdenarPorInsercion\\1.2.OrdenarPorInsercion\\orden_insercion.cpp",
+              "RelativeToolTip": "1.2.OrdenarPorInsercion\\orden_insercion.cpp",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-12T09:31:55.303Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

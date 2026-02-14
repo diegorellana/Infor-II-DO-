@@ -1,6 +1,0 @@
-﻿  main.cpp
-C:\Users\diego\OneDrive\Desktop\Recu-Infor-2\FinalesAnteriores\Diciembre23\Ej_3_GestionGimnasio\Ej_3_Gimnasio\Ej_3_Gimnasio\main.cpp(30,4): warning C4156: deletion of an array expression without using the array form of 'delete'; array form substituted
-C:\Users\diego\OneDrive\Desktop\Recu-Infor-2\FinalesAnteriores\Diciembre23\Ej_3_GestionGimnasio\Ej_3_Gimnasio\Ej_3_Gimnasio\main.cpp(30,4): warning C4154: deletion of an array expression; conversion to pointer supplied
-C:\Users\diego\OneDrive\Desktop\Recu-Infor-2\FinalesAnteriores\Diciembre23\Ej_3_GestionGimnasio\Ej_3_Gimnasio\Ej_3_Gimnasio\main.cpp(31,4): warning C4156: deletion of an array expression without using the array form of 'delete'; array form substituted
-C:\Users\diego\OneDrive\Desktop\Recu-Infor-2\FinalesAnteriores\Diciembre23\Ej_3_GestionGimnasio\Ej_3_Gimnasio\Ej_3_Gimnasio\main.cpp(31,4): warning C4154: deletion of an array expression; conversion to pointer supplied
-  Ej_3_Gimnasio.vcxproj -> C:\Users\diego\OneDrive\Desktop\Recu-Infor-2\FinalesAnteriores\Diciembre23\Ej_3_GestionGimnasio\Ej_3_Gimnasio\x64\Debug\Ej_3_Gimnasio.exe

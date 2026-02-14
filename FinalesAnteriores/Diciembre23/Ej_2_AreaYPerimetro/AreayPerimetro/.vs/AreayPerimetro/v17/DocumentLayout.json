@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diego\\OneDrive\\Desktop\\Recu-Infor-2\\FinalesAnteriores\\Diciembre23\\Ej_2_AreaYPerimetro\\AreayPerimetro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85C6820C-3CFE-465C-9C00-2E072A7DAFB9}|AreayPerimetro\\AreayPerimetro.vcxproj|C:\\Users\\diego\\OneDrive\\Desktop\\Recu-Infor-2\\FinalesAnteriores\\Diciembre23\\Ej_2_AreaYPerimetro\\AreayPerimetro\\AreayPerimetro\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{85C6820C-3CFE-465C-9C00-2E072A7DAFB9}|AreayPerimetro\\AreayPerimetro.vcxproj|solutionrelative:AreayPerimetro\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 194,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\diego\\OneDrive\\Desktop\\Recu-Infor-2\\FinalesAnteriores\\Diciembre23\\Ej_2_AreaYPerimetro\\AreayPerimetro\\AreayPerimetro\\main.cpp",
+              "RelativeDocumentMoniker": "AreayPerimetro\\main.cpp",
+              "ToolTip": "C:\\Users\\diego\\OneDrive\\Desktop\\Recu-Infor-2\\FinalesAnteriores\\Diciembre23\\Ej_2_AreaYPerimetro\\AreayPerimetro\\AreayPerimetro\\main.cpp",
+              "RelativeToolTip": "AreayPerimetro\\main.cpp",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-04T18:24:36.326Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

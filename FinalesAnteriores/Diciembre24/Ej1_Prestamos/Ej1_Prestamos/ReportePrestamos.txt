@@ -1,0 +1,7 @@
+Listado de cuentas: 
+   1   Diego   1001
+   2   Javi   2001
+   3   Carlos   3001
+Listado de prestamos: 
+Dias: 1691   Inter: 169.1   Monto: 300   Fecha: 23/4/2021   Cuenta: Diego  1001
+Dias: 420   Inter: 42   Monto: 250   Fecha: 12/10/2024   Cuenta: Javi  2001

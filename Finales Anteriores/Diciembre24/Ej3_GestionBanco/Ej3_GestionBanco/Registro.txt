@@ -1,9 +1,0 @@
-Num. movimientos: 7
-Movimientos: 
-1000
-800
-790
-770
-740
-700
-650

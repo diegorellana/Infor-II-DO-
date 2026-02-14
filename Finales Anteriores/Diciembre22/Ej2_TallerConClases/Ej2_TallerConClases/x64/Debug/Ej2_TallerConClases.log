@@ -1,4 +1,0 @@
-﻿  main.cpp
-C:\Users\diego\OneDrive\Desktop\Recu-Infor-2\FinalesAnteriores\Diciembre22\Ej2_TallerConClases\Ej2_TallerConClases\main.cpp(29,51): warning C4101: 'hh_fin': unreferenced local variable
-C:\Users\diego\OneDrive\Desktop\Recu-Infor-2\FinalesAnteriores\Diciembre22\Ej2_TallerConClases\Ej2_TallerConClases\main.cpp(29,59): warning C4101: 'mm_fin': unreferenced local variable
-  Ej2_TallerConClases.vcxproj -> C:\Users\diego\OneDrive\Desktop\Recu-Infor-2\FinalesAnteriores\Diciembre22\Ej2_TallerConClases\x64\Debug\Ej2_TallerConClases.exe

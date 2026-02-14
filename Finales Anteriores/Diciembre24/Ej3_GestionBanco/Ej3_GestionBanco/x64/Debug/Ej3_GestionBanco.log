@@ -1,4 +1,0 @@
-﻿  main.cpp
-C:\Users\diego\OneDrive\Desktop\Recu-Infor-2\FinalesAnteriores\Diciembre24\Ej3_GestionBanco\Ej3_GestionBanco\main.cpp(4,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
-C:\Users\diego\OneDrive\Desktop\Recu-Infor-2\FinalesAnteriores\Diciembre24\Ej3_GestionBanco\Ej3_GestionBanco\cuenta.h(52,1): warning C4715: 'cuenta::Gasto': not all control paths return a value
-  Ej3_GestionBanco.vcxproj -> C:\Users\diego\OneDrive\Desktop\Recu-Infor-2\FinalesAnteriores\Diciembre24\Ej3_GestionBanco\x64\Debug\Ej3_GestionBanco.exe

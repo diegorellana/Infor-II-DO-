@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diego\\OneDrive\\Desktop\\UNAV\\3ro\\Infor-II\\Sesion_6_Funciones\\Practica\\Ejercicio3\\matrixcalculation.cpp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80632908-0905-47A0-BAAA-9CB93CBC1855}|matrixcalculation.cpp\\matrixcalculation.cpp.vcxproj|C:\\Users\\diego\\OneDrive\\Desktop\\UNAV\\3ro\\Infor-II\\Sesion_6_Funciones\\Practica\\Ejercicio3\\matrixcalculation.cpp\\matrixcalculation.cpp\\MatrixCalc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{80632908-0905-47A0-BAAA-9CB93CBC1855}|matrixcalculation.cpp\\matrixcalculation.cpp.vcxproj|solutionrelative:matrixcalculation.cpp\\MatrixCalc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MatrixCalc.cpp",
+              "DocumentMoniker": "C:\\Users\\diego\\OneDrive\\Desktop\\UNAV\\3ro\\Infor-II\\Sesion_6_Funciones\\Practica\\Ejercicio3\\matrixcalculation.cpp\\matrixcalculation.cpp\\MatrixCalc.cpp",
+              "RelativeDocumentMoniker": "matrixcalculation.cpp\\MatrixCalc.cpp",
+              "ToolTip": "C:\\Users\\diego\\OneDrive\\Desktop\\UNAV\\3ro\\Infor-II\\Sesion_6_Funciones\\Practica\\Ejercicio3\\matrixcalculation.cpp\\matrixcalculation.cpp\\MatrixCalc.cpp",
+              "RelativeToolTip": "matrixcalculation.cpp\\MatrixCalc.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-08T11:03:15.195Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

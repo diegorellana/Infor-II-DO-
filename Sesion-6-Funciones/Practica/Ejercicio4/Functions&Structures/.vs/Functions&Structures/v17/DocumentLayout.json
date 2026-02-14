@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diego\\OneDrive\\Desktop\\UNAV\\3ro\\Infor-II\\Sesion_6_Funciones\\Practica\\Ejercicio4\\Functions\u0026Structures\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5F13FC8-3E9B-4204-89E0-16BF33F10C71}|Functions\u0026Structures\\Functions\u0026Structures.vcxproj|C:\\Users\\diego\\OneDrive\\Desktop\\UNAV\\3ro\\Infor-II\\Sesion_6_Funciones\\Practica\\Ejercicio4\\Functions\u0026Structures\\Functions\u0026Structures\\funcstruct.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C5F13FC8-3E9B-4204-89E0-16BF33F10C71}|Functions\u0026Structures\\Functions\u0026Structures.vcxproj|solutionrelative:Functions\u0026Structures\\funcstruct.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "funcstruct.cpp",
+              "DocumentMoniker": "C:\\Users\\diego\\OneDrive\\Desktop\\UNAV\\3ro\\Infor-II\\Sesion_6_Funciones\\Practica\\Ejercicio4\\Functions\u0026Structures\\Functions\u0026Structures\\funcstruct.cpp",
+              "RelativeDocumentMoniker": "Functions\u0026Structures\\funcstruct.cpp",
+              "ToolTip": "C:\\Users\\diego\\OneDrive\\Desktop\\UNAV\\3ro\\Infor-II\\Sesion_6_Funciones\\Practica\\Ejercicio4\\Functions\u0026Structures\\Functions\u0026Structures\\funcstruct.cpp",
+              "RelativeToolTip": "Functions\u0026Structures\\funcstruct.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-08T11:12:58.448Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

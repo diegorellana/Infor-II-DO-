@@ -1,0 +1,60 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diego\\OneDrive\\Desktop\\Recu-Infor-2\\Sesion-7-POO\\Ex3_Dynamic_Objects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80FCF566-3FDF-45B4-A6CF-51F1AC80D6BE}|Ex3_Dynamic_Objects\\Ex3_Dynamic_Objects.vcxproj|C:\\Users\\diego\\OneDrive\\Desktop\\Recu-Infor-2\\Sesion-7-POO\\Ex3_Dynamic_Objects\\Ex3_Dynamic_Objects\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{80FCF566-3FDF-45B4-A6CF-51F1AC80D6BE}|Ex3_Dynamic_Objects\\Ex3_Dynamic_Objects.vcxproj|solutionrelative:Ex3_Dynamic_Objects\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80FCF566-3FDF-45B4-A6CF-51F1AC80D6BE}|Ex3_Dynamic_Objects\\Ex3_Dynamic_Objects.vcxproj|C:\\Users\\diego\\OneDrive\\Desktop\\Recu-Infor-2\\Sesion-7-POO\\Ex3_Dynamic_Objects\\Ex3_Dynamic_Objects\\student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{80FCF566-3FDF-45B4-A6CF-51F1AC80D6BE}|Ex3_Dynamic_Objects\\Ex3_Dynamic_Objects.vcxproj|solutionrelative:Ex3_Dynamic_Objects\\student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 192,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "student.h",
+              "DocumentMoniker": "C:\\Users\\diego\\OneDrive\\Desktop\\Recu-Infor-2\\Sesion-7-POO\\Ex3_Dynamic_Objects\\Ex3_Dynamic_Objects\\student.h",
+              "RelativeDocumentMoniker": "Ex3_Dynamic_Objects\\student.h",
+              "ToolTip": "C:\\Users\\diego\\OneDrive\\Desktop\\Recu-Infor-2\\Sesion-7-POO\\Ex3_Dynamic_Objects\\Ex3_Dynamic_Objects\\student.h",
+              "RelativeToolTip": "Ex3_Dynamic_Objects\\student.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-23T16:23:45.397Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 192,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\diego\\OneDrive\\Desktop\\Recu-Infor-2\\Sesion-7-POO\\Ex3_Dynamic_Objects\\Ex3_Dynamic_Objects\\main.cpp",
+              "RelativeDocumentMoniker": "Ex3_Dynamic_Objects\\main.cpp",
+              "ToolTip": "C:\\Users\\diego\\OneDrive\\Desktop\\Recu-Infor-2\\Sesion-7-POO\\Ex3_Dynamic_Objects\\Ex3_Dynamic_Objects\\main.cpp",
+              "RelativeToolTip": "Ex3_Dynamic_Objects\\main.cpp",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAowGEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-23T16:24:23.31Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

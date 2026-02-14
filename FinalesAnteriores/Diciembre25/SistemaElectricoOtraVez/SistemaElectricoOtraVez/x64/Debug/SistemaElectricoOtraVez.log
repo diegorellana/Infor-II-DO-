@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\diego\OneDrive\Desktop\Recu-Infor-2\FinalesAnteriores\Diciembre25\SistemaElectricoOtraVez\SistemaElectricoOtraVez\main.cpp(81,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\diego\OneDrive\Desktop\Recu-Infor-2\FinalesAnteriores\Diciembre25\SistemaElectricoOtraVez\SistemaElectricoOtraVez\main.cpp(222,37): warning C4101: 'opc_off': unreferenced local variable
+  mantenimiento.cpp
+  Generating Code...
+  SistemaElectricoOtraVez.vcxproj -> C:\Users\diego\OneDrive\Desktop\Recu-Infor-2\FinalesAnteriores\Diciembre25\SistemaElectricoOtraVez\x64\Debug\SistemaElectricoOtraVez.exe

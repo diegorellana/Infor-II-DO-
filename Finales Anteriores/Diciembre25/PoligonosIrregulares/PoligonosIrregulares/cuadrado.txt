@@ -1,2 +1,0 @@
-Perimetro: 4.82843
-Area: 1
